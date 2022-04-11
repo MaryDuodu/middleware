@@ -1,0 +1,11 @@
+{
+  "name": "Day_1",
+  "version": "1.0.0",
+  "description": "My second backend code",
+  "main": "index.js",
+  "author": "Mary Sam",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
